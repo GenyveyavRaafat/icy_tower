@@ -17,7 +17,7 @@ Key features:
 ## 📦 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/icy-tower.git
+   git clone https://github.com/GenyveyavRaafat/icy_tower.git
 2. **Open in Unity**
    Create a new 2D project in Unity.
 
